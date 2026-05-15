@@ -1,0 +1,2 @@
+# Ensemble-Learning-for-Predicting-Demand-in-Shared-urban-transport-System-
+A machine learning and time-series forecasting project that predicts taxi demand using techniques like SARIMA, Prophet, LSTM, XGBoost, and LightGBM. The project includes data preprocessing, exploratory data analysis, clustering (K-Means, DBSCAN), demand forecasting, and visualization to improve urban transportation planning and ride availability.
